@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ChallengesActivity"
+    android:background="@drawable/challenges1">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/aboutusTV"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="right"
+            android:text="CHALLENGES"
+            android:textColor="@color/lightwhite"
+            android:textColorHighlight="@color/lightwhite"
+            android:textColorHint="@color/lightwhite"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <Button
+            android:id="@+id/marginbtn"
+            android:layout_width="300dp"
+            android:layout_height="8dp"
+            android:layout_below="@+id/aboutusTV"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="41dp"
+            android:textColorHighlight="@color/lightwhite"
+            android:textColorHint="@color/lightwhite"
+            android:background="@color/lightwhite" />
+
+
+    </RelativeLayout>
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="23dp"
+        android:textStyle="bold"
+        android:textColorHint="@color/lightwhite"
+        android:text=" Read 100 times Subḥān Allāh(سبحان الله)"
+        android:textColor="@color/lightwhite"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="23dp"
+        android:textStyle="bold"
+        android:textColorHint="@color/lightwhite"
+        android:text=" Read 100 times Astagfirullah (أستغفر الله)"
+        android:textColor="@color/lightwhite"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="25dp"
+        android:textStyle="bold"
+        android:textColorHint="@color/lightwhite"
+        android:text="Read 100 times  lā ilāha illā allāh(لا إله إلا الله)"
+        android:textColor="@color/lightwhite"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="23dp"
+        android:textStyle="bold"
+        android:textColorHint="@color/lightwhite"
+        android:text="100 times Rabbi zidni ilma(ربِّ زِدْنِي عِلْماً)"
+        android:textColor="@color/lightwhite"
+    />
+
+    <ImageButton
+        android:id="@+id/Back_buttonchallenges"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="285dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/ic_keyboard_backspace_black_24dp"
+        android:onClick="backButton" />
+
+
+
+</LinearLayout>

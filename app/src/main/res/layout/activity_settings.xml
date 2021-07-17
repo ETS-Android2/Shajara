@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SettingsActivity"
+    android:background="@drawable/settings">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/aboutus"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="right"
+            android:text="Settings"
+            android:textColor="@color/white"
+            android:textColorHighlight="@color/lightwhite"
+            android:textColorHint="@color/lightwhite"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <Button
+            android:id="@+id/margin"
+            android:layout_width="258dp"
+            android:layout_height="7dp"
+            android:layout_below="@+id/aboutus"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="41dp"
+            android:background="@color/lightwhite"
+            android:textColorHint="@color/lightwhite"/>
+
+
+    </RelativeLayout>
+
+    <Switch
+        android:id="@+id/jummah_switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_weight="4"
+        android:padding="10dp"
+        android:text="Notification for  jummah  prayer    "
+        android:textSize="22dp" />
+    <Switch
+        android:id="@+id/fajr_switch2"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_weight="4"
+        android:padding="10dp"
+        android:text="Notification for     Fajr     prayer    "
+        android:textSize="22dp" />
+
+    <Switch
+        android:id="@+id/dhuhr_switch3"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_weight="4"
+        android:padding="10dp"
+        android:text="Notification for  Dhuhr    prayer    "
+        android:textSize="22dp" />
+
+    <Switch
+        android:id="@+id/asr_switch4"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_weight="4"
+        android:padding="10dp"
+        android:text="Notification for  Asr       prayer      "
+        android:textSize="22dp" />
+    <Switch
+        android:id="@+id/magrib_switch5"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_weight="4"
+        android:padding="10dp"
+        android:text="Notification for  Magrib   prayer     "
+        android:textSize="22dp" />
+
+
+    <Switch
+        android:id="@+id/ishaa__switch6"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_weight="4"
+        android:padding="10dp"
+        android:text="Notification for  Ishaa     prayer    "
+        android:textSize="22dp" />
+    <Switch
+        android:id="@+id/Tahajjud_switch7"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_weight="4"
+        android:padding="10dp"
+        android:text="Notification for  Tahajjud  prayer    "
+        android:textSize="22dp" />
+
+
+
+
+
+    <ImageButton
+        android:id="@+id/Back_buttonSetting"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginLeft="285dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/ic_keyboard_backspace_black_24dp"
+        android:onClick="backButton" />
+
+</LinearLayout>

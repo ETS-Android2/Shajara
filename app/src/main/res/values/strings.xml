@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Shajara</string>
+
+    <string name="my_preferance">com.shajaraapp.com.MyPref</string>
+    <string name="my_preferance_key">com.shajaraapp.com.MyPrefKey</string>
+    <string name="Open">Shajara</string>
+    <string name="Close">Shajara</string>
+    <string name="check_1">Subḥān Allāh(سبحان الله)</string>
+    <string name="check_2">Astagfirullah (أستغفر الله)</string>
+    <string name="check_3">lā ilāha illā allāh(لا إله إلا الله)</string>
+    <string name="check_4">Allahumma inni asaluka al-jannah (اللهم اني اسالك الجنة)</string>
+    <string name="check_5"> Rabbi zidni ilma(ربِّ زِدْنِي عِلْماً)</string>
+
+</resources>
