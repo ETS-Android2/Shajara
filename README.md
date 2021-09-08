@@ -50,7 +50,7 @@ Some snippets of the app are given as follows:
 </table>
 
 > **Challenges**
-    <img src="Shajara img/Challenges.png"  width=270 height=480>
+<img src="Shajara img/Challenges.png"  width=270 height=480>
 
 > **Database Keeping Track of the prayers**
 <img src="Shajara img/Database.png"  width=270 height=480>
