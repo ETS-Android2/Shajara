@@ -4,10 +4,11 @@ It is an android application which allows someone to keep track of their daily p
 Some snippets of the app are given as follows:
 
 > **Introductory sliders**:
-  <img src="Shajara img/Intro.png">
-  <img src="Shajara img/Slider1.png">
-  <img src="Shajara img/Slider1.png">
-  <img src="Shajara img/Slider1.png">
+<p float="left">
+  <img src="Shajara img/Intro.png" width="100">
+  <img src="Shajara img/Slider1.png" width="100">
+  <img src="Shajara img/Slider1.png" width="100">
+  <img src="Shajara img/Slider1.png" width="100"></p>
 >
 
 
