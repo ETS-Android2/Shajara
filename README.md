@@ -19,6 +19,7 @@ Some snippets of the app are given as follows:
     <td><img src="Shajara img/Slider3.png" width=270 height=480></td>
   </tr>
 </table>
+
 > **Keeping Track of The Prayers With Tree Representation**
 <table>
   <tr>
@@ -47,6 +48,7 @@ Some snippets of the app are given as follows:
     <td><img src="Shajara img/Notifications.png" width=270 height=480></td>
   </tr>
 </table>
+
 > **Challenges**
     <img src="Shajara img/Challenges.png"  width=270 height=480>
 
