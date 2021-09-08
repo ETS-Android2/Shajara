@@ -5,10 +5,26 @@ Some snippets of the app are given as follows:
 
 > **Introductory sliders**:
 <p float="left">
-  <img src="Shajara img/Intro.png" width="100">
-  <img src="Shajara img/Slider1.png" width="100">
-  <img src="Shajara img/Slider1.png" width="100">
-  <img src="Shajara img/Slider1.png" width="100"></p>
+  <img src="Shajara img/Intro.png" width="200">
+  <img src="Shajara img/Slider1.png" width="200">
+  <img src="Shajara img/Slider1.png" width="200">
+  <img src="Shajara img/Slider1.png" width="200"></p>
+  
+<table>
+  <tr>
+     <td>Slider 1</td>
+     <td>Slider 2</td>
+     <td>Slider 3</td>
+     <td>Slider 4</td>
+  </tr>
+  <tr>
+    <td><img src="Shajara img/Intro.png"  width=270 height=480></td>
+    <td><img src="Shajara img/Slider1.png" width=270 height=480></td>
+    <td><img src="Shajara img/Slider2.png" width=270 height=480></td>
+    <td><img src="Shajara img/Slider3.png" width=270 height=480></td>
+    
+  </tr>
+</table>
 >
 
 
