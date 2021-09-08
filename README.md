@@ -27,14 +27,14 @@ Some snippets of the app are given as follows:
      <td>Stage of Tree with 5 prayers</td>
    </tr>
   <tr>
-    <td><img src="Shajara img/Tree 1.png"  width=270 height=480></td>
-    <td><img src="Shajara img/Tree 2.png" width=270 height=480></td>
-    <td><img src="Shajara img/Tree 3.png" width=270 height=480></td>
+    <td><img src="Shajara img/Tree1.png"  width=270 height=480></td>
+    <td><img src="Shajara img/Tree2.png" width=270 height=480></td>
+    <td><img src="Shajara img/Tree3.png" width=270 height=480></td>
    </tr>
 </table>
 
 > **Setting Bar for Further Options**
-<img src="Shajara img/Navbar.png"  width=270 height=480>
+  <img src="Shajara img/Navbar.png"  width=270 height=480>
 
 > **Settings**
 <table>
@@ -48,7 +48,7 @@ Some snippets of the app are given as follows:
   </tr>
 </table>
 > **Challenges**
-<img src="Shajara img/Challenges.png"  width=270 height=480>
+    <img src="Shajara img/Challenges.png"  width=270 height=480>
 
 > **Database Keeping Track of the prayers**
 <img src="Shajara img/Database.png"  width=270 height=480>
